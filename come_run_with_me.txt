@@ -1,0 +1,38 @@
+Come run with me
+
+Intro           Bm      E     x 4
+intro/chorus riff      b ab e f# e d e b d e ->
+                       b ab e f# e d b           x 4
+
+Verse           Bm   G   A    x 4
+
+Chorus          Bm      E     x 4
++ riff
+
+Verse           Bm   G   A    x 4
+
+Chorus          Bm      E     x 4
++ riff
+
+Interlude       Bm   G   A 
+Interlude(riff) bb c#c# dd df# g a d c# a x 3 
+Interlude(riff) bb c#c# dd df# g a
+
+Interlude       Bm      E    x 4
+intelude riff      b ab e f# e d e b d e  ->
+(per chorus)       b ab e f# e d b             x 4
+
+Interlude       Bm   G   A 
+Interlude(riff) bb c#c# dd df# g a d c# a x 3 
+Interlude(riff) bb c#c# dd df# g a
+				   
+Chorus          Bm      E     x 4
++ riff
+
+Verse           Bm   G   A    x 4
+
+Chorus          Bm      E     x ?
++ riff	
+
+Chorus lead-in template 
+e <slide> f# a <h> b d f# e <p> d b d b			   
