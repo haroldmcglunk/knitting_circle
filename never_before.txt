@@ -25,7 +25,7 @@ Interlude            A   G x 4 ?
 	 
 Intro: Bass RIff  +  A   G   x 2
 
-Verse: Bass riff x 4  Guitar         C   Bb   x 4
+Verse: Bass riff x 4  Guitar         A  G   x 2
 
 Pre-Chorus           D   A   D   G  A   D   A   G  G ->
 
