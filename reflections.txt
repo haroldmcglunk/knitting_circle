@@ -2,42 +2,26 @@ Reflections
 
 Intro         Em   x 4
 		      
-Verse         Em   D   C   D   Em   x 3
+Verse         Em   D   C   D   Em   x 3 build up on Em to chorus
 		      
-Intro         Em   x 2
+chorus        C   D   Em  x 2
+              C   D   Em   G   D   C 
 		      
-Verse         Em   D   C   D   Em   x 3
-		      
-Intro         Em   x 2
+Verse         Em   D   C   D   Em   x 3 build up on Em to chorus
 		      
 chorus        C   D   Em  x 2
               C   D   Em   G   D   C  
 		      
 intro         Em   x 2
 		      
-interlude     C  (cc bb aa gg  x 2)
+Middle        Em    C    Em    D  x  2
 		      
-intro         Em   x 2
+Lead          Em   D   C   D   Em   x 3 build up on Em to chorus
 		      
-interlude     C  (cc bb aa gg  x 2)
+chorus        C   D   Em  x 2
+              C   D   Em   G   D   
 		      
-intro         Em   x 2
-		      
-interlude     C  (cc bb aa gg  x 2)
-		      
-intro         Em   x 2
-		      
-interlude     C  (cc bb aa gg  x 2)
-		      
-intro         Em   x 2
-		      
-Lead     E    m   D   C   D   Em   x 3
-		      
-Intro         Em   x 2
-		      
-middle        Em   C   Em  D   x 4
-		      
-Intro         Em   x 2
+Intro         Em   x 4
 		      
 Verse         Em   D   C   D   Em   x 3
 		      
@@ -45,5 +29,6 @@ chorus        C   D   Em  x 2
               C   D   Em   G   D   C
 chorus        C   D   Em  x 2
               C   D   Em   G   D   C D. C. D. C. D
-Outro         Em X 4
+
+Outro         Em X 1000
           
