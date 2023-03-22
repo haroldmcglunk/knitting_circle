@@ -8,7 +8,7 @@ Verse: Bass riff x 4  Guitar         A   G   x 4
 
 Pre-Chorus           D   A   D   G  A   D   A   G  G -> 
 
-Chorus               A   G   A   G
+Chorus               A   G   A   
 
 Intro: Bass RIff  +  A   G   x 2
 
@@ -16,7 +16,7 @@ Verse: Bass riff x 4  Guitar         A   G   x 4
 
 Pre-Chorus           D   A   D   G  A   D   A   G  G ->
 
-Chorus               A   G   A   G
+Chorus               A   G   A   
 
 Interlude:           D   F#   A   B   E   G   x 2
 
@@ -29,4 +29,4 @@ Verse: Bass riff x 4  Guitar         A  G   x 4
 
 Pre-Chorus           D   A   D   G  A   D   A   G  G ->
 
-Chorus               A   G   A   G x ?
+Chorus               A   G   A    x ?
