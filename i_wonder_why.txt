@@ -5,7 +5,7 @@ Verse         Dm   F   G   Bb   C   Dm  x 2
 Chorus        Bb   F   Eb  x 2
 Chorus        Bb   F   Eb  Dm  G
 
-middle        Bb   F   C   Db (Db C Bb run back)
+middle        Bb   F   C   Dm (Dm C Bb run back)
 middle        Bb   F   C --tacit--   (cc ff ee d)
 
 Verse         Dm   F   G   Bb   C   Dm  x 2
@@ -13,7 +13,7 @@ Verse         Dm   F   G   Bb   C   Dm  x 2
 Chorus        Bb   F   Eb  x 2
 Chorus        Bb   F   Eb  Dm  G
 
-middle        Bb   F   C   Db (Db C Bb run back)
+middle        Bb   F   C   Dm (Dm C Bb run back)
 middle        Bb   F   C --tacit--   (cc ff ee d)
 
 Verse         Dm   F   G   Bb   C   Dm  x 2
