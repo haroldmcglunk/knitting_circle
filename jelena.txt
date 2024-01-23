@@ -1,30 +1,24 @@
 Jelena
 
-Verse        G    Bm    C  x  2
+Verse            E      Abm A  x  2
 
-middle       Am    Em   Bm   Em    Am  Em   Bm  C  D
+middle           F#m    C#m   Abm   C#m   F#m   C#m   Abm  A   B
 
-Verse        G    Bm    C  x  2
+Verse            E      Abm A  x  2
 
-middle       Am    Em   Bm   Em    Am  Em   Bm  C  D
+middle           F#m    C#m   Abm   C#m   F#m   C#m   Abm  A   B
 
-Verse        G    Bm    C  x  2
+Verse            E      Abm A  x  2
 
-middle       Am    Em   Bm   Em    Am  Em   Bm  C  D
+middle           F#m    C#m   Abm   C#m   F#m   C#m   Abm  A   B
 
-Lead          G    Bm    C  x  2
+Verse/lead       E      Abm A  x  2
 
-# This part will be a bit ad lib It needs to be the interesting part as there is no chorus
-long middle   Am    Em   Bm   Em  x  3
-end middle    Am  Em   Bm  C  D
+chonky middle    F#m    C#m   Abm   C#m   x   3
+chonky middle    F#m    C#m   Abm  A   B
 
-Verse        G    Bm    C  x  2
+Verse            E      Abm A  x  2
 
-middle       Am    Em   Bm   Em    Am  Em   Bm  C  D
+middle           F#m    C#m   Abm   C#m   F#m   C#m   Abm  A   B
 
-Verse        G    Bm    C  x  2
-
-middle       Am    Em   Bm   Em    Am  Em   Bm  C  D
-
-
-
+End              E      Abm A  B  x  4
