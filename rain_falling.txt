@@ -1,33 +1,62 @@
 Rain falling
 
-Intro       G   C   x  8   this is a guess
+GTR 1 - Standard Tuning
+GTR 2 - Standard Tuning Capo 5th Fret
 
-Verse       G   C   x 4
+Intro bit of jangly guitar stuff played around a D shape at the 7th fret      
+GTR 1. G   C   x  8  
+GTR 2. D   G   x  8 
 
-Pre-Chorus  Am  G   x 2
+Verse       
+GTR 1. G   C   x 4
+GTR 2. D   G   x 4
 
-ppre-chorus Am  D
+Pre-Chorus  
+GTR 1. Am  G   x 2
+GTR 2. Em  D   x 2
 
-Chorus      G   Am  Bm  C  x 2
+pre-chorus 
+GTR 1. Am  D (sus4 etc)
+GTR 2. Em  A (sus4 etc)
 
-Intro       G   C   x 4
+Chorus      
+GTR 1. G   Am  Bm  C  x 2
+GTR 2. D   Em  F#m  G  x 2
 
-Verse       G   C   x 4
+Intro       
+GTR 1. G   C   x 4
+GTR 2. D   G   x 4
 
-Pre-Chorus  Am  G   x 2
+Verse       
+GTR 1. G   C   x 4
+GTR 2. D   G   x 4
 
-pre-chorus Am  D
+Pre-Chorus  
+GTR 1. Am  G   x 2
+GTR 2. Em  D   x 2
 
-Chorus      G   Am  Bm  C  x 2
+pre-chorus 
+GTR 1. Am  D (sus4 etc)
+GTR 2. Em  A (sus4 etc)
 
-Intro Interlude - bit of jangly guitar stuff
+Chorus      
+GTR 1. G   Am  Bm  C  x 4
+GTR 2. D   Em  F#m  G  x 4
 
-Pre-Chorus  Am  G   x 2
+Intro Interlude - bit of jangly guitar stuff played around a D shape at the 7th fret
 
-pre-chorus Am  D
+Pre-Chorus  
+GTR 1. Am  G   x 2
+GTR 2. Em  D   x 2
 
-Chorus (chill)      G   Am  Bm  C  x 2  (crescendo)
+pre-chorus 
+GTR 1. Am  D (sus4 etc)
+GTR 2. Em  A (sus4 etc)
 
-Chorus      G   Am  Bm  C  x 2
+Chorus (chill) - (crescendo)     
+GTR 1. G   Am  Bm  C  x 6   ??  
+GTR 2. D   Em  F#m  G  x 6   ?? 
 
-Outro       G   C   x 4
+Outro       
+GTR 1. G   C   x 4
+GTR 2. D   G   x 4
